@@ -1,4 +1,8 @@
-private class Asteroid extends Mass
+/*
+	Asteroid OBJECT (not the main project file)
+*/
+
+rivate class Asteroid extends Mass
 {
   
   //variables
