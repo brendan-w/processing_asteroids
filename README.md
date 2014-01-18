@@ -1,7 +1,6 @@
 Asteroids - with Processing
 Written by Brendan Whitfield
 
-
 This game is a derivative of the game Asteroids. It works on the same principals as the original (shooting & destroying asteroids), but with the twist of gravity. The planet in the middle of the screen generates a gravitational pull on the asteroids, bringing them into elliptical orbits. The player's objective (in addition to not getting hit), is to protect the planet from collisions.
 
 Because gravity naturally produces stable orbits, a slight frictional force has been added to every asteroid. Over time, this causes the orbits to decay, resulting in collisions with the planet. Asteroids may also collide with one another. These collisions are perfectly elastic, and are influenced by the mass of each asteroid. Asteroids that are bounced or flung off screen are denoted by a red arrow that follows the object.
